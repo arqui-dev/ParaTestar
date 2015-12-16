@@ -1,0 +1,263 @@
+Initialize engine version: 5.2.3f1 (f3d16a1fa2dd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7450M (ID=0x6760)
+    Vendor:   ATI
+    VRAM:     1011 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.139 seconds
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: E:\gameDev\zugbahn\bridgefall\versãoStandWin32\bridgefall_Data\Managed\System.dll (this message is harmless)
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 2558 -> priority: 1 
+AQUI MENU _SplashScreen
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.083790 ms
+Mais tocados enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 1449.
+Total: 2.428508 ms (FindLiveObjects: 0.149632 ms CreateObjectMapping: 0.093799 ms MarkObjects: 2.159616 ms  DeleteObjects: 0.023673 ms)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+AQUI Jogo
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Mais tocados enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.960958 ms
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 1155.
+Total: 1.531608 ms (FindLiveObjects: 0.121939 ms CreateObjectMapping: 0.069232 ms MarkObjects: 1.310063 ms  DeleteObjects: 0.029033 ms)
+
+Colocar som do grito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Colocar som do grito
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Completou fase enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Pontos ultima fase: 156
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Macas verdes última tela:0, pontos restantes 156
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ganhou maça enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+AQUI Jogo_Rapido_Vitoria
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Mais tocados enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.253416 ms
+Maçãs verdes totais: 3 -> 3
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+
+Unloading 113 unused Assets to reduce memory usage. Loaded Objects now: 694.
+Total: 2.007304 ms (FindLiveObjects: 0.058066 ms CreateObjectMapping: 0.066552 ms MarkObjects: 1.332843 ms  DeleteObjects: 0.548502 ms)
+
+Unity ads not initialized.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Abriu ad enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Mostrando Ad proprio.
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Maçãs verdes última tela: 1
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Maçãs verdes totais: 3 -> 4
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ganhou maça enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+AQUI Menu
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Mais tocados enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.611114 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 1623.
+Total: 3.680058 ms (FindLiveObjects: 0.180005 ms CreateObjectMapping: 0.103179 ms MarkObjects: 3.366054 ms  DeleteObjects: 0.029033 ms)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
+Ponto tocado enviado analytics
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 64)
+
